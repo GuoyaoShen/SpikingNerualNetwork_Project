@@ -1,5 +1,6 @@
 # SpikingNerualNetwork_Project
 This repo is a project aimed at learning and exploring the properties of spiking neural network (SNN) and comparing it with traditional neural network (refered as "artificial neural network (ANN)").
+
 For the report for this project, see [here](https://drive.google.com/file/d/1QvE7DLFy5uhu-wbhMx4Cau3LNHy1XJTC/view?usp=sharing).
 
 ## What's different for SNN?
